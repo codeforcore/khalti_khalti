@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Khalti (1.0.17)
+  - khalti_khalti (0.0.1):
+    - Flutter
+    - Khalti
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - khalti_khalti (from `.symlinks/plugins/khalti_khalti/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Khalti
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  khalti_khalti:
+    :path: ".symlinks/plugins/khalti_khalti/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  Khalti: 77f3170ebed03ce6e6af65230997a0a0516c0796
+  khalti_khalti: 3d3287dbda1779e35285185fb268882f725272c8
+
+PODFILE CHECKSUM: 96bbfa9065eb9f376864a389379dee79d8bd50c9
+
+COCOAPODS: 1.10.1
